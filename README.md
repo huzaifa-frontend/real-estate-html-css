@@ -35,7 +35,7 @@ This is a responsive and modern **Real Estate website** project built using **HT
 
 ## 🛠️ Features
 
-- Fully responsive layout for all devices 📱💻
+- Fully responsive layout for all devices
 - Elegant header with background overlay and centered text
 - Custom contact form design with client-side validation
 - Organized and reusable CSS utility classes

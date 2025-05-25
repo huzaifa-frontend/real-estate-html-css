@@ -24,9 +24,9 @@ This is a responsive and modern **Real Estate website** project built using **HT
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/huzaifa-frontend/fc-real-estate.git
+   git clone https://github.com/huzaifa-frontend/real-estate-html-css.git
    ```
-   
+
 2. Open the project folder and run the HTML file in your browser:
    ```
    index.html

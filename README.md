@@ -1,4 +1,3 @@
-
 # FC Real Estate Website
 
 🌐 **Live Demo:** [Click here to visit site](https://huzaifa-frontend.github.io/real-estate-html-css/)
@@ -25,13 +24,15 @@ This is a responsive and modern **Real Estate website** project built using **HT
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fc-real-estate.git
+   git clone https://github.com/huzaifa-frontend/fc-real-estate.git
    ```
-2. Navigate to the project folder:
-   ```bash
-   cd fc-real-estate
+   
+2. Open the project folder and run the HTML file in your browser:
    ```
-3. Open `index.html` in your browser.
+   index.html
+   ```
+
+No additional setup is required
 
 ## 🛠️ Features
 
